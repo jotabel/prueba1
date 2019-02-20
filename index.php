@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "Esto es una prueba";
         echo "primer cambio";
+        echo "Te modifico";
         ?>
     </body>
 </html>
